@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&theme=tokyonight)
+![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs&locale=in)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool&hide=contribs&locale=in)](https://github.com/NayakwadiS/mftool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds)](https://github.com/NayakwadiS/Forecasting_Mutual_Funds)
 
 <!--
