@@ -2,6 +2,8 @@
 
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,prs&locale=en&border_color=2e4058&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS)](https://github.com/NayakwadiS/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds)](https://github.com/NayakwadiS/Forecasting_Mutual_Funds)
 
