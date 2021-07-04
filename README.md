@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&theme=radical)
+![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&theme=tokyonight)
 
 
 <!--
