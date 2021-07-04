@@ -1,6 +1,6 @@
 ### Hello :slightly_smiling_face:
 
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,prs,issue&locale=en&show_icons=true)
+![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,prs,issues&locale=en&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS)](https://github.com/NayakwadiS/github-readme-stats)
 
