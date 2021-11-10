@@ -1,8 +1,10 @@
 ### Hello :slightly_smiling_face:
+![](https://komarev.com/ghpvc/?username=NayakwadiS&color=brightgreen)
+
 
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,prs,issues&locale=en&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS)](https://github.com/NayakwadiS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=compact)](https://github.com/NayakwadiS/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool)
 
