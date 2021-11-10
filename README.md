@@ -10,8 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool)
 
-<a href="https://github.com/NayakwadiS/mftool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
+<a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
 </a>
 <a href="https://github.com/NayakwadiS/Predict_Cryptocurrency_INR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Predict_Cryptocurrency_INR" />
