@@ -1,4 +1,8 @@
 ### Hello :slightly_smiling_face:
+
+I'm Software backend developer and passionate Python coder.
+Developed python packages [mftool](https://github.com/NayakwadiS/mftool) and [selenium-page-factory](https://github.com/NayakwadiS/selenium-page-factory)
+
 <!-- ![](https://komarev.com/ghpvc/?username=NayakwadiS&color=brightgree/n) -->
 
 
@@ -6,9 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=compact)](https://github.com/NayakwadiS/github-readme-stats)
 
-#### Top Repositories
+#### Currently working on 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool) -->
 
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
@@ -17,9 +21,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Predict_Cryptocurrency_INR" />
 </a>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds)](https://github.com/NayakwadiS/Forecasting_Mutual_Funds)
+Like my work and want to support me?
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Predict_Cryptocurrency_INR)](https://github.com/NayakwadiS/Predict_Cryptocurrency_INR) -->
+I'll be HAPPY to have some COFFEE(s) from you, to keep my brain active! 😊
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nayakwadis" data-color="#40DCA5" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 
 <!--
 **NayakwadiS/NayakwadiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
