@@ -2,7 +2,7 @@
 
 I'm Software backend developer and passionate Python coder.
 
-Developed python packages [mftool](https://github.com/NayakwadiS/mftool) and [selenium-page-factory](https://github.com/NayakwadiS/selenium-page-factory) are available on Pypi. 
+Developed python packages [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) are available on Pypi. 
 
 <!-- ![](https://komarev.com/ghpvc/?username=NayakwadiS&color=brightgree/n) -->
 
