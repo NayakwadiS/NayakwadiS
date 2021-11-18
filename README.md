@@ -39,5 +39,6 @@ Developed python packages [mftool](https://github.com/NayakwadiS/mftool) and [se
 #### Like my work and want to support me?
 
 I'll be HAPPY to have some COFFEE(s) from you, to keep my brain active! &nbsp;
-<a href="https://www.buymeacoffee.com/nayakwadis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/nayakwadis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
 
