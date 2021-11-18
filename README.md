@@ -22,7 +22,7 @@ Developed python packages [mftool](https://github.com/NayakwadiS/mftool) and [se
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Predict_Cryptocurrency_INR" />
 </a>
 
-
+/
 Like my work and want to support me?
 
 I'll be HAPPY to have some COFFEE(s) from you, to keep my brain active!
