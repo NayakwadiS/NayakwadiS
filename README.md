@@ -12,7 +12,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=compact)](https://github.com/NayakwadiS/github-readme-stats)
 
 
-#### Top Repository
+#### Python Libraries
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
 </a>
