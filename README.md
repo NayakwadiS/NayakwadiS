@@ -36,7 +36,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 <br />
 <br />
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitnayakwadi/)
 
 
 #### Like my work and want to support me?
