@@ -36,7 +36,8 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 <br />
 <br />
 
-https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white
+![image]({https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white})
+
 
 #### Like my work and want to support me?
 
