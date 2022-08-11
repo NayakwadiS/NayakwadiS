@@ -1,4 +1,5 @@
 ### Hello :slightly_smiling_face:
+![](https://komarev.com/ghpvc/?username=NayakwadiSe&color=green)
 
 I'm Software backend developer and passionate Python coder.
 
