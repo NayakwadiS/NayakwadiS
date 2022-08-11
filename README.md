@@ -22,7 +22,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 <br />
 
-#### Currently working on 
+#### Data science project 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool)](https://github.com/NayakwadiS/mftool) -->
 
