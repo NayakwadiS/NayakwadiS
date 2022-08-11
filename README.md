@@ -37,7 +37,6 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 <br />
 
 [![visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/NayakwadiS/mftool/graphs/traffic)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitnayakwadi/)
 
 
