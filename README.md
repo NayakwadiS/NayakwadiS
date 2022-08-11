@@ -38,11 +38,11 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitnayakwadi/)
 [![Traffic](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/NayakwadiS/mftool/graphs/traffic)
-
-
-#### Like my work and want to support me?
-
-I'll be HAPPY to have some COFFEE(s) from you, to keep my brain active! &nbsp;
 <a href="https://www.buymeacoffee.com/nayakwadis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
+
+<!-- #### Like my work and want to support me?
+
+I'll be HAPPY to have some COFFEE(s) from you, to keep my brain active! &nbsp; -->
+
 
