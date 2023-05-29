@@ -24,16 +24,12 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 #### Data science projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds)](https://github.com/NayakwadiS/Forecasting_Mutual_Funds) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Cryptocurrency_INR)](https://github.com/NayakwadiS/Forecasting_Cryptocurrency_INR) 
-
-<!-- <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
+<a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
 </a>
 <a href="https://github.com/NayakwadiS/Forecasting_Cryptocurrency_INR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Cryptocurrency_INR" />
-</a>-->
+</a>
 
 <br />
 <br />
