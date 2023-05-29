@@ -7,7 +7,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 <!-- ![](https://komarev.com/ghpvc/?username=NayakwadiS&color=brightgree/n) -->
 
 
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues,commits&locale=en&show_icons=true&rank_icon=github)
+![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues,commits&locale=en&show_icons=true&hide_rank=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=compact)](https://github.com/NayakwadiS/github-readme-stats)
 
