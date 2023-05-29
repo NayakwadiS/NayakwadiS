@@ -9,7 +9,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=compact)](https://github.com/NayakwadiS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut)](https://github.com/NayakwadiS/github-readme-stats)
 
 
 #### Python Libraries
