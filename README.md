@@ -1,6 +1,6 @@
 ### Hello :slightly_smiling_face:
 
-I'm Software backend developer and passionate Python coder.
+I'm Software backend developer :man_technologist: and passionate Python coder :pencil:.
 
 Developed python packages [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) are available on Pypi. 
 
@@ -12,7 +12,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut)](https://github.com/NayakwadiS/github-readme-stats)
 
 
-#### Python Libraries
+#### Python Libraries :open_file_folder:
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
 </a>
@@ -22,7 +22,7 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 <br />
 
-#### Data science projects
+#### Data science projects :chart_with_upwards_trend:
 
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
