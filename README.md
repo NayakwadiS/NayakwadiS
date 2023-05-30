@@ -1,6 +1,6 @@
 ### Hello :innocent:
 
-I'm Software backend developer :man_technologist: and passionate Python coder :pencil:.
+I'm Software backend developer :man_technologist: and passionate Python coder :100:.
 
 Developed python packages [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) are available on Pypi. 
 
