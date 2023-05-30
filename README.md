@@ -1,4 +1,4 @@
-### Hello :slightly_smiling_face:
+### Hello :innocent:
 
 I'm Software backend developer :man_technologist: and passionate Python coder :pencil:.
 
