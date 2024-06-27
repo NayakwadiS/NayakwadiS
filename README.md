@@ -22,8 +22,8 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 <br />
 
-### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=NayakwadiS&theme=flat&no-bg=true&title=Stars,Experience,PullRequest,Commits" />
+#### GitHub Trophies  :trophy
+<img src="https://github-profile-trophy.vercel.app/?username=NayakwadiS&theme=flat&no-bg=true&title=Stars,Experience,PullRequest,Commits&no-frame=true" />
 
 #### Data science projects :chart_with_upwards_trend:
 
