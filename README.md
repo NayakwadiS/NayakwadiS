@@ -22,6 +22,9 @@ Developed python packages [mftool](https://pypi.org/project/mftool) and [seleniu
 
 <br />
 
+### GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=NayakwadiS&theme=juicyfresh&no-bg=true" />
+
 #### Data science projects :chart_with_upwards_trend:
 
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
