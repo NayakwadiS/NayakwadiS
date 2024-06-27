@@ -4,7 +4,7 @@ I'm Software backend developer :man_technologist: and passionate Python coder :1
 
 Developed python packages [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) are available on Pypi. 
 
-<!-- ![](https://komarev.com/ghpvc/?username=NayakwadiS&color=brightgree/n) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NayakwadiS&label=Profile%20views&color=0e75b6&style=flat" alt="NayakwadiS" /> </p>
 
 
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true)
