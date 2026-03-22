@@ -1,6 +1,6 @@
 ### Hello :innocent:
 
-I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) (PyPI) | 10+ years backend experienceb :100:
+I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) (PyPI) | 10+ years backend experience :100:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NayakwadiS&label=Profile%20views&color=0e75b6&style=flat" alt="NayakwadiS" /> </p>
