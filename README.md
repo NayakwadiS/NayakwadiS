@@ -1,6 +1,6 @@
 ### Hello :innocent:
 
-I'm Software backend developer :man_technologist: and passionate Python coder :100:.
+I'm Senior Python & GenAI Engineer :man_technologist:| Author of mftool & selenium-page-factory (PyPI) | 10+ years backend experienceb:100:
 
 Developed python packages [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) are available on Pypi. 
 
