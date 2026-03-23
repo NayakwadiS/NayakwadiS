@@ -24,6 +24,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <br />
 
 #### Pypi downloads :chart_with_upwards_trend:
+
 <a href="https://pypi.org/project/mftool/">
   <img src="https://img.shields.io/pypi/dm/mftool?label=mftool%20downloads" alt="mftool downloads"/>
 </a>
