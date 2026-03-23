@@ -12,11 +12,11 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 
 #### Python Libraries :open_file_folder:
-<p>
+
   <a href="https://pypi.org/project/mftool/">
     <img src="https://img.shields.io/pypi/dm/mftool?label=mftool%20downloads" alt="mftool downloads"/>
   </a>
-
+<p>
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
 </a>
@@ -24,6 +24,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
 </a>
 </p>
+
 
 <br />
 <br />
