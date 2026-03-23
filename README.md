@@ -11,10 +11,10 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut)](https://github.com/NayakwadiS/github-readme-stats)
 
 
-#### GitHub Trophies  🏆
-<img src="https://github-profile-trophy.vercel.app/?username=NayakwadiS&theme=flat&no-bg=true&title=Stars,Experience,PullRequest,Commits&no-frame=true" />
-
 #### Python Libraries :open_file_folder:
+[![PyPI downloads](https://img.shields.io/pypi/dm/mftool?label=PyPI%20downloads)](https://pypi.org/project/mftool/)
+
+
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
 </a>
