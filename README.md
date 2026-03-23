@@ -12,10 +12,20 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 
 #### Python Libraries :open_file_folder:
-[![mftool downloads](https://img.shields.io/pypi/dm/mftool?label=PyPI%20downloads)](https://pypi.org/project/mftool/)
-<br/>
-[![selenium-page-factory downloads](https://img.shields.io/pypi/dm/selenium-page-factory?label=PyPI%20downloads)](https://pypi.org/project/selenium-page-factory/)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://pypi.org/project/mftool/">
+        <img src="https://img.shields.io/pypi/dm/mftool?label=PyPI%20downloads" alt="mftool downloads"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://pypi.org/project/selenium-page-factory/">
+        <img src="https://img.shields.io/pypi/dm/selenium-page-factory?label=PyPI%20downloads" alt="selenium-page-factory downloads"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
