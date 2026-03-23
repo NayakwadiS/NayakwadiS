@@ -12,7 +12,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 
 #### Python Libraries :open_file_folder:
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://pypi.org/project/mftool/">
