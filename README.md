@@ -16,7 +16,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
   <a href="https://pypi.org/project/mftool/">
     <img src="https://img.shields.io/pypi/dm/mftool?label=mftool%20downloads" alt="mftool downloads"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pypi.org/project/selenium-page-factory/">
     <img src="https://img.shields.io/pypi/dm/selenium-page-factory?label=selenium-page-factory%20downloads" alt="selenium-page-factory downloads"/>
   </a>
@@ -34,6 +34,8 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <br />
 <br />
 <br />
+<br />
+
 
 #### Data science projects :chart_with_upwards_trend:
 
