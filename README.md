@@ -13,7 +13,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 #### Python Libraries :open_file_folder:
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
+  <tr style="border: none;">
     <td style="border: none;">
       <a href="https://pypi.org/project/mftool/">
         <img src="https://img.shields.io/pypi/dm/mftool?label=PyPI%20downloads" alt="mftool downloads"/>
