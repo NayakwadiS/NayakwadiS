@@ -11,7 +11,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut)](https://github.com/NayakwadiS/github-readme-stats)
 
 
-#### Python Libraries :open_file_folder:
+#### Python Libraries :package:
 
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
@@ -35,7 +35,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <br />
 <br />
 
-#### ML projects :chart_with_upwards_trend:
+#### ML projects :microscope:
 
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
