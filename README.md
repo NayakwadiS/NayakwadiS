@@ -19,12 +19,14 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <a href="https://github.com/NayakwadiS/selenium-page-factory">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
 </a>
-
+<a href="https://pypi.org/project/mftool/">
+  <img src="https://img.shields.io/pypi/dm/mftool?label=mftool%20downloads" alt="mftool downloads"/>
+</a>
 
 <br />
 
 
-#### Data science projects :chart_with_upwards_trend:
+#### MLe projects :chart_with_upwards_trend:
 
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
