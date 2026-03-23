@@ -21,7 +21,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 </a>
 
 <br />
-<br />
+
 
 #### Pypi downloads :chart_with_upwards_trend:
 
@@ -33,7 +33,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 </a>
 
 <br />
-<br />
+
 
 #### ML projects :microscope:
 
