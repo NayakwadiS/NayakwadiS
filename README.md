@@ -20,12 +20,8 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
 </a>
 
-
 <br />
 <br />
-<br />
-<br />
-
 
 #### Pypi downloads :chart_with_upwards_trend:
 <a href="https://pypi.org/project/mftool/">
