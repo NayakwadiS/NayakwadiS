@@ -12,26 +12,23 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 
 #### Python Libraries :open_file_folder:
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://pypi.org/project/mftool/">
-        <img src="https://img.shields.io/pypi/dm/mftool?label=PyPI%20downloads" alt="mftool downloads"/>
-      </a>
-      <a href="https://github.com/NayakwadiS/mftool">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
-    </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://pypi.org/project/selenium-page-factory/">
-        <img src="https://img.shields.io/pypi/dm/selenium-page-factory?label=PyPI%20downloads" alt="selenium-page-factory downloads"/>
-      </a>
-      <a href="https://github.com/NayakwadiS/selenium-page-factory">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
-    </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://pypi.org/project/mftool/">
+    <img src="https://img.shields.io/pypi/dm/mftool?label=mftool%20downloads" alt="mftool downloads"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pypi.org/project/selenium-page-factory/">
+    <img src="https://img.shields.io/pypi/dm/selenium-page-factory?label=selenium-page-factory%20downloads" alt="selenium-page-factory downloads"/>
+  </a>
+</p>
+
+<a href="https://github.com/NayakwadiS/mftool">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
+</a>
+<a href="https://github.com/NayakwadiS/selenium-page-factory">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
+</a>
+
 
 <br />
 
