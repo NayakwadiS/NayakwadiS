@@ -31,6 +31,8 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 
 <br />
+<br />
+<br />
 
 #### Data science projects :chart_with_upwards_trend:
 
