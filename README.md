@@ -29,7 +29,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
   <img  align="center" src="https://img.shields.io/pypi/dm/mftool?label=mftool%20downloads" alt="mftool downloads"/>
 </a>
 <a href="https://pypi.org/project/selenium-page-factory/">
-  <img  align="center" src="https://img.shields.io/pypi/dm/selenium-page-factory?label=mftool%20downloads" alt="selenium-page-factory downloads"/>
+  <img  align="center" src="https://img.shields.io/pypi/dm/selenium-page-factory?label=selenium-page-factory%20downloads" alt="selenium-page-factory downloads"/>
 </a>
 
 <br />
