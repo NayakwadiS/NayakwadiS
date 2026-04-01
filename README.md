@@ -31,7 +31,6 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 </a>
 
 <br />
-<br />
 
 [selenium-page-factory](https://pypi.org/project/selenium-page-factory) <a href="https://pepy.tech/badge/selenium-page-factory">
   <img  align="center" src="https://pepy.tech/badge/selenium-page-factory/month" alt="selenium-page-factory downloads"/>
