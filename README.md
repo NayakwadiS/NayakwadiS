@@ -16,7 +16,10 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <a href="https://github.com/NayakwadiS/mftool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
 </a>
+
 <br />
+<br />
+
 <a href="https://github.com/NayakwadiS/selenium-page-factory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
 </a>
