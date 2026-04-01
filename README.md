@@ -17,9 +17,6 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=mftool" />
 </a>
 
-<br />
-<br />
-
 <a href="https://github.com/NayakwadiS/selenium-page-factory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=selenium-page-factory" />
 </a>
@@ -32,6 +29,10 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 [mftool](https://pypi.org/project/mftool) <a href="https://pepy.tech/badge/mftool">
   <img  align="center" src="https://pepy.tech/badge/mftool/month" alt="mftool downloads"/>
 </a>
+
+<br />
+<br />
+
 [selenium-page-factory](https://pypi.org/project/selenium-page-factory) <a href="https://pepy.tech/badge/selenium-page-factory">
   <img  align="center" src="https://pepy.tech/badge/selenium-page-factory/month" alt="selenium-page-factory downloads"/>
 </a>
