@@ -26,13 +26,25 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 #### Pypi downloads :chart_with_upwards_trend:
 
-[mftool](https://pypi.org/project/mftool) <a href="https://pepy.tech/badge/mftool">
+<table>
+  <tr>
+    <td>[mftool](https://pypi.org/project/mftool)</td>
+    <td><a href="https://pepy.tech/badge/mftool"><img  align="center" src="https://pepy.tech/badge/mftool/month" alt="mftool downloads"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>[selenium-page-factory](https://pypi.org/project/selenium-page-factory)</td>
+    <td><a href="https://pepy.tech/badge/selenium-page-factory"><img  align="center" src="https://pepy.tech/badge/selenium-page-factory/month" alt="selenium-page-factory downloads"/></a>
+</td>
+  </tr>
+</table>
+<!-- [mftool](https://pypi.org/project/mftool) <a href="https://pepy.tech/badge/mftool">
   <img  align="center" src="https://pepy.tech/badge/mftool/month" alt="mftool downloads"/>
-</a>
-<br />
+</a> -->
+<!-- <br />
 [selenium-page-factory](https://pypi.org/project/selenium-page-factory) <a href="https://pepy.tech/badge/selenium-page-factory">
   <img  align="center" src="https://pepy.tech/badge/selenium-page-factory/month" alt="selenium-page-factory downloads"/>
-</a>
+</a> -->
 
 
 #### ML projects :microscope:
