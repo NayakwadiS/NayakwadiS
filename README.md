@@ -42,7 +42,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <a href="https://github.com/NayakwadiS/NSE-Neuron">
   <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=NSE-Neuron" />
 </a>
-<br />
+
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
 </a>
