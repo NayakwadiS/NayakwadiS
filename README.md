@@ -7,7 +7,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 ![Total Stars](github-readme-stats-nayakwadis-projects.vercel.app/api?username=NayakwadiS)
 
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true)
+![Sujit's GitHub stats](https://github-readme-stats-nayakwadis-projects.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut)](https://github.com/NayakwadiS/github-readme-stats)
 
