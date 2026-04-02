@@ -5,7 +5,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NayakwadiS&label=Profile%20views&color=0e75b6&style=flat" alt="NayakwadiS" /> </p>
 
-![Total Stars](github-readme-stats-nayakwadis-projects.vercel.app/api?username=NayakwadiS)
+![Stats](https://github-readme-stats-nayakwadis-projects.vercel.app/api?username=NayakwadiS&v=1)
 
 ![Sujit's GitHub stats](https://github-readme-stats-nayakwadis-projects.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true)
 
