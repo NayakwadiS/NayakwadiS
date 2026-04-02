@@ -36,7 +36,6 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 <br />
 
-
 #### ML projects :microscope:
 
 <a href="https://github.com/NayakwadiS/NSE-Neuron">
