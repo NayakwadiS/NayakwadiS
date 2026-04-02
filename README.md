@@ -28,16 +28,23 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 
 <table>
   <tr>
-    <td>[mftool](https://pypi.org/project/mftool)</td>
-    <td><a href="https://pepy.tech/badge/mftool"><img  align="center" src="https://pepy.tech/badge/mftool/month" alt="mftool downloads"/></a>
+    <td><a href="https://pypi.org">mftool</a></td>
+    <td>
+      <a href="https://pepy.tech">
+        <img src="https://pepy.tech/month" alt="mftool downloads"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td>[selenium-page-factory](https://pypi.org/project/selenium-page-factory)</td>
-    <td><a href="https://pepy.tech/badge/selenium-page-factory"><img  align="center" src="https://pepy.tech/badge/selenium-page-factory/month" alt="selenium-page-factory downloads"/></a>
-</td>
+    <td><a href="https://pypi.org">selenium-page-factory</a></td>
+    <td>
+      <a href="https://pepy.tech">
+        <img src="https://pepy.tech/month" alt="selenium-page-factory downloads"/>
+      </a>
+    </td>
   </tr>
 </table>
+
 <!-- [mftool](https://pypi.org/project/mftool) <a href="https://pepy.tech/badge/mftool">
   <img  align="center" src="https://pepy.tech/badge/mftool/month" alt="mftool downloads"/>
 </a> -->
