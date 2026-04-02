@@ -6,6 +6,7 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NayakwadiS&label=Profile%20views&color=0e75b6&style=flat" alt="NayakwadiS" /> </p>
 
 ![Total Stars](https://vercel.app?username=NayakwadiS)
+
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut)](https://github.com/NayakwadiS/github-readme-stats)
@@ -42,9 +43,11 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 <a href="https://github.com/NayakwadiS/NSE-Neuron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=NSE-Neuron" />
 </a>
+
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
 </a>
+
 <a href="https://github.com/NayakwadiS/Forecasting_Cryptocurrency_INR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Cryptocurrency_INR" />
 </a>
