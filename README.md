@@ -2,7 +2,7 @@
 
 GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM-powered apps & neural prediction systems 🧠 | AWS Certified | Author of [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) (PyPI)
 
-![Python](https://shields.io) ![TensorFlow](https://shields.io) ![AWS](https://shields.io) ![Docker](https://shields.io) ![FastAPI](https://shields.io) ![GenAI](https://shields.io)
+🧠 GenAI | 🐍 Python | 🔥 TensorFlow | ☁️ AWS | 🐳 Docker | ⚡ FastAPI
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NayakwadiS&label=Profile%20views&color=0e75b6&style=flat" alt="NayakwadiS" /> </p>
 
