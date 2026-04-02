@@ -44,15 +44,15 @@ I'm Senior Python & GenAI Engineer :man_technologist:| Author of [mftool](https:
 #### ML projects :microscope:
 
 <a href="https://github.com/NayakwadiS/NSE-Neuron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=NSE-Neuron" />
+  <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=NSE-Neuron" />
 </a>
 
 <a href="https://github.com/NayakwadiS/Forecasting_Mutual_Funds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
+  <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Mutual_Funds" />
 </a>
 
 <a href="https://github.com/NayakwadiS/Forecasting_Cryptocurrency_INR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Cryptocurrency_INR" />
+  <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=Forecasting_Cryptocurrency_INR" />
 </a>
 
 <br />
