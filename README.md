@@ -9,7 +9,7 @@ GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM
 
 ![Sujit's GitHub stats](https://github-readme-stats-nayakwadis-projects.vercel.app/api?username=NayakwadiS&show_icons=true&hide=contribs,issues&locale=en&hide_rank=true&include_all_commits=true&count_private=true&v=8)
 
-![Top Langs](https://github-readme-stats-nayakwadis-projects.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut&hide=javascript)
+![Top Langs](https://github-readme-stats-nayakwadis-projects.vercel.app/api/top-langs/?username=NayakwadiS&layout=donut&hide=javascript&langs_count=4)
 
 
 #### Python Libraries :package:
