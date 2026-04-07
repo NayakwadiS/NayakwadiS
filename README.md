@@ -61,6 +61,14 @@ GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM
 <br />
 <br />
 
+
+#### MCP Server :![MCP Server](https://shields.io):
+
+<a href="https://github.com/NayakwadiS/mftool-mcp">
+  <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=mftool-mcp" />
+</a>
+
+
 #### Like my work and want to support me?
 
 I'll be HAPPY to have some COFFEE(s) from you, to keep my brain active! &nbsp;
