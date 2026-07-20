@@ -32,7 +32,7 @@ GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM
     <td><a href="https://pypi.org/project/mftool">mftool</a></td>
     <td>
       <a href="https://pepy.tech/badge/mftool">
-        <img src="https://pepy.tech/badge/mftool/all-time" alt="mftool downloads"/>
+        <img src="https://pepy.tech/badge/mftool alt="mftool downloads"/>
       </a>
     </td>
   </tr>
@@ -40,7 +40,7 @@ GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM
     <td><a href="https://pypi.org/project/selenium-page-factory">selenium-page-factory</a></td>
     <td>
       <a href="https://pepy.tech/badge/selenium-page-factory">
-        <img src="https://pepy.tech/badge/selenium-page-factory/all-time" alt="selenium-page-factory downloads"/>
+        <img src="https://pepy.tech/badge/selenium-page-factory" alt="selenium-page-factory downloads"/>
       </a>
     </td>
   </tr>
