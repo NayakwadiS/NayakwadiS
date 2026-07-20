@@ -32,7 +32,7 @@ GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM
     <td><a href="https://pypi.org/project/mftool">mftool</a></td>
     <td>
       <a href="https://pepy.tech/badge/mftool">
-        <img src="https://pepy.tech/badge/mftool alt="mftool downloads"/>
+        <img src="https://pepy.tech/badge/mftool" alt="mftool downloads"/>
       </a>
     </td>
   </tr>
