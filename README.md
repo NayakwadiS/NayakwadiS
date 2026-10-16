@@ -1,6 +1,6 @@
 ### Hello :innocent:
 
-GenAI & Deep Learning Engineer :man_technologist:| 11+ years :100:| Building LLM-powered apps & neural prediction systems 🧠 | AWS Certified | Author of Python libraries [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) (PyPI)
+GenAI & Deep Learning Engineer :man_technologist:| 12+ years :100:| Building LLM-powered apps & neural prediction systems 🧠 | AWS Certified | Author of Python libraries [mftool](https://pypi.org/project/mftool) and [selenium-page-factory](https://pypi.org/project/selenium-page-factory) (PyPI)
 
 🧠 GenAI | 🐍 Python | 🔥 TensorFlow | ☁️ AWS | 🐳 Docker | ⚡ FastAPI
 
