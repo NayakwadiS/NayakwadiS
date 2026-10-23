@@ -68,6 +68,10 @@ GenAI & Deep Learning Engineer :man_technologist:| 12+ years :100:| Building LLM
   <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=mftool-mcp" />
 </a>
 
+<a href="https://github.com/NayakwadiS/bahi-mcp">
+  <img align="center" src="https://github-readme-stats-nayakwadis-projects.vercel.app/api/pin/?username=NayakwadiS&repo=bahi-mcp" />
+</a>
+<br />
 
 #### Like my work and want to support me?
 
